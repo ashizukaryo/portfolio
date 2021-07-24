@@ -8,12 +8,7 @@
 
 
 body{
-    background-image: url("./black.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    mix-blend-mode: overlay;
-    background-position: center center;
+    background-color: black;
     margin: 100px;   
 }
 
