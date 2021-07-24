@@ -21,11 +21,7 @@ body{
 
 .douga1{
     width: 400px;
-}
-
-.yuuyake{
-    padding-top: 175px;
-    width: 400px;
+    transform: translate(0, 100px);
 }
 
 
