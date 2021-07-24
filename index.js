@@ -1,6 +1,5 @@
 
 
-window.scrollTo(0,document.body.scrollHeight);
 
 
 var scrollAnimationElm = document.querySelectorAll('.douga1');
