@@ -16,7 +16,9 @@ body{
     background-position: center center;
 }
 
-video{
-    width: 400px;
-    margin: auto;
+.namae{
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
