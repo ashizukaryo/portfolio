@@ -21,7 +21,7 @@ body{
 
 .douga1{
     width: 400px;
-    opacity: 0;
+    opacity: 1;
     transition: all .5s ease;
 }
 
