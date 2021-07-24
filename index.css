@@ -10,6 +10,7 @@
 body{
     background-color: white;
     margin: 100px;   
+    z-index: 10;
 }
 
 .namae{
@@ -21,6 +22,7 @@ body{
 
 .dougatati{
     width: 400px;
+    z-index: 20;
 }
 
 
