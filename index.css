@@ -17,5 +17,6 @@ body{
 }
 
 .namae{
-    text-align: center;
+    width: 400px;
+    margin: auto;
 }
