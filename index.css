@@ -1,7 +1,6 @@
 .namae{
-    font-size: 80px;
-    padding: 300px;
-    text-align: bold;
+    font-size: 50px;
+    margin: 100px 0 0 100px;
     text-align: center;
     color: white;
     font-weight: 800;
@@ -15,5 +14,5 @@ body{
     background-attachment: fixed;
     mix-blend-mode: overlay;
     background-position: center center;
-    
 }
+
