@@ -17,6 +17,8 @@ body{
 }
 
 .namae{
-    width: 720px;
-    margin: auto;
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
