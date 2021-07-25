@@ -44,14 +44,20 @@ body{
       width: 400px
   }
 
-  h6{
-    color: white;
-  }
 
+  .iicon{
+    display: flex; 
+  }
 
   .icon{
     width: 100px;
     height: 100px;
+    margin-right: 20px;
   }
+  
+  .iconMozi{
+      color: white;
+  }
+
 
 
