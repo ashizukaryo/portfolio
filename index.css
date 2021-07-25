@@ -47,13 +47,16 @@ body{
 
   .iicon{
     display: flex; 
+    margin-left: 10%;
+    margin-top: 10%;
   }
 
   .icon{
     width: 100px;
     height: 100px;
     margin-right: 20px;
-  }
+    cursor: pointer;
+}
   
   .iconMozi{
       color: white;
